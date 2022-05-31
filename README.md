@@ -2,7 +2,7 @@
 
 This app is made in react native.
 
-| Home page | Functional page          | 
+| Home page | Functional page  | 
 |--------|----------------|----|
 | ![](https://firebasestorage.googleapis.com/v0/b/kelevra-81e2e.appspot.com/o/home.png?alt=media&token=ac7c7be7-78a1-4349-9c7a-09b661c920d5)  | ![](https://firebasestorage.googleapis.com/v0/b/kelevra-81e2e.appspot.com/o/functional.png?alt=media&token=b3e22ecb-6d06-440e-ab7c-c924554dd540) 
 ## Installation
